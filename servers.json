@@ -1,9 +1,23 @@
 [
   {
     "ip": "tt.funtime.su",
-    "name": "фантайм",
-    "description": "§fсервер с крутым описанием!",
+    "name": "FunTime",
+    "description": "Лучший гриферский сервер с крутым онлайном!",
     "badge": "★ СПОНСОР",
     "color": "#FF3366"
+  },
+  {
+    "ip": "mc.reallyworld.ru",
+    "name": "ReallyWorld",
+    "description": "Гриферское выживание с уникальными фишками!",
+    "badge": "★ ПАРТНЁР",
+    "color": "#7952FF"
+  },
+  {
+    "ip": "mc.holyworld.ru",
+    "name": "HolyWorld",
+    "description": "Популярный анархо-гриф сервер для всех!",
+    "badge": "★ ТОП",
+    "color": "#00D2FF"
   }
 ]
